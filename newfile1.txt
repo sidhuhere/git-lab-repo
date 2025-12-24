@@ -1,2 +1,3 @@
 my first file
-second line in first files
+old line deleted
+new line here :)
