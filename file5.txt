@@ -3,5 +3,3 @@ Line 2 - commit 2
 Line 3 - NEW LINE - Revert test
 Line 4 - NEW LINE - Revert test
 Line 5 - NEW LINE - Revert test
-Line 6 - New line
-Line 7 - New line
